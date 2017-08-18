@@ -40,7 +40,7 @@ This plugin does a conversion when the markdown file contains a link to a local 
 
 or a remote open api spec file
 ```md
-[API Reference 1](https://temando.github.io/open-api-renderer/petstore-open-api-v3.0.0-RC2.json "openapi:")
+[API Reference](https://temando.github.io/open-api-renderer/petstore-open-api-v3.0.0-RC2.json "openapi:")
 ```
 
 The above will be converted to the following table:
