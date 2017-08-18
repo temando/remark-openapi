@@ -6,6 +6,8 @@
 
 A [remark](https://github.com/wooorm/remark) plugin that converts a link to a local or remote open api spec into a table with summary of all paths.
 
+This project is inspired by [remark-swagger](https://github.com/yoshuawuyts/remark-swagger). It borrows some code in table generation from [remark-swagger](https://github.com/yoshuawuyts/remark-swagger).
+
 ## Installation
 
 ```sh
