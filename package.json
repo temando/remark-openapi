@@ -1,6 +1,6 @@
 {
   "name": "remark-openapi",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Remark plugin that converts a link to a local or remote open api spec into a table with summary of all paths",
   "license": "MIT",
   "keywords": [
